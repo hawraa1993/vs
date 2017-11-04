@@ -1,0 +1,16 @@
+C:\Users\مكتب - كنان\Desktop\الحقيبه البرمجيه\printing\printing\bin\Debug\printing.exe
+C:\Users\مكتب - كنان\Desktop\الحقيبه البرمجيه\printing\printing\bin\Debug\printing.pdb
+C:\Users\مكتب - كنان\Desktop\الحقيبه البرمجيه\printing\printing\obj\x86\Debug\printing.Form1.resources
+C:\Users\مكتب - كنان\Desktop\الحقيبه البرمجيه\printing\printing\obj\x86\Debug\printing.Properties.Resources.resources
+C:\Users\مكتب - كنان\Desktop\الحقيبه البرمجيه\printing\printing\obj\x86\Debug\printing.csproj.GenerateResource.Cache
+C:\Users\مكتب - كنان\Desktop\الحقيبه البرمجيه\printing\printing\obj\x86\Debug\printing.exe
+C:\Users\مكتب - كنان\Desktop\الحقيبه البرمجيه\printing\printing\obj\x86\Debug\printing.pdb
+C:\Users\مكتب - كنان\Desktop\الحقيبه البرمجيه\printing\printing\obj\x86\Debug\printing.csprojResolveAssemblyReference.cache
+E:\حوراء\اشياء مهمه  جدا  خاصه  بالمشروع\الحقيبه البرمجيه\printing\printing\obj\x86\Debug\printing.exe
+E:\حوراء\اشياء مهمه  جدا  خاصه  بالمشروع\الحقيبه البرمجيه\printing\printing\obj\x86\Debug\printing.pdb
+E:\حوراء\اشياء مهمه  جدا  خاصه  بالمشروع\الحقيبه البرمجيه\printing\printing\bin\Debug\printing.exe
+E:\حوراء\اشياء مهمه  جدا  خاصه  بالمشروع\الحقيبه البرمجيه\printing\printing\bin\Debug\printing.pdb
+E:\حوراء\اشياء مهمه  جدا  خاصه  بالمشروع\الحقيبه البرمجيه\printing\printing\obj\x86\Debug\printing.csprojResolveAssemblyReference.cache
+E:\حوراء\اشياء مهمه  جدا  خاصه  بالمشروع\الحقيبه البرمجيه\printing\printing\obj\x86\Debug\printing.Form1.resources
+E:\حوراء\اشياء مهمه  جدا  خاصه  بالمشروع\الحقيبه البرمجيه\printing\printing\obj\x86\Debug\printing.Properties.Resources.resources
+E:\حوراء\اشياء مهمه  جدا  خاصه  بالمشروع\الحقيبه البرمجيه\printing\printing\obj\x86\Debug\printing.csproj.GenerateResource.Cache
